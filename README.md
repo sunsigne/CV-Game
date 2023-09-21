@@ -1,6 +1,6 @@
 # CV de Florian Murcia
 
-<a href="https://rawcdn.githack.com/sunsigne/CV-Game/a87bb0b679c829ad64fac79255cbe8e215681788/index.html" target="_blank">Visualiser le CV en ligne</a>
+<a href="https://rawcdn.githack.com/sunsigne/CV-Game/ede5f5f983510b1053ff2992fc4a4cd3ea9bd99e/index.html" target="_blank">Visualiser le CV en ligne</a>
 
 CV de Florian Murcia
 Développeur/Programmeur depuis 8 ans et possédant un Titre Professionnel en Développement Web, je conçois des applications ludiques et des sites internet au Design Responsive avec HTML, CSS, Bootstrap, Wordpress ... Je crée également des jeux vidéo grâce à mon excellente maitrise du langage Java. Retrouvez mon parcours sur cette page.
